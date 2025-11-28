@@ -195,31 +195,31 @@
 			"killGang1": {
 				"description": {
 					"eng": "Defeat Animals gang enemies",
-					"trans": "Hayvanlar çete düşmanlarını yen"
+					"trans": "Hayvanlar çetesi düşmanlarını yen"
 				},
 				"name": {
 					"eng": "Defeat Animals gang member",
-					"trans": "Hayvanlar çete üyesini yen"
+					"trans": "Hayvanlar çetesi üyesini yen"
 				}
 			},
 			"killGang2": {
 				"description": {
 					"eng": "Defeat Voodoo boys gang enemies",
-					"trans": "Vudu erkek çete düşmanlarını yenmek"
+					"trans": "Vudu Boys çetesi düşmanlarını yen"
 				},
 				"name": {
 					"eng": "Defeat Voodoo boys gang member",
-					"trans": "Vudu Boys Gang Member"
+					"trans": "Vudu Boys çetesi üyelerini yenin"
 				}
 			},
 			"killGang3": {
 				"description": {
 					"eng": "Defeat Scavengers gang enemies",
-					"trans": "Çöpçüler çete düşmanlarını yenmek"
+					"trans": "Çöpçüler çetesi düşmanlarını yenin"
 				},
 				"name": {
 					"eng": "Defeat Scavengers gang member",
-					"trans": "Scavengers çete üyesini yenmek"
+					"trans": "Scavengers çetesi üyesini yenin"
 				}
 			},
 			"molecularPrint": {
@@ -1158,7 +1158,7 @@
 	"chatModuleHelper": {
 		"aiConnectNotAvailable": {
 			"eng": "Permission Denied. SLANC not connected to chat",
-			"trans": "İzin reddedildi. SHANC Sohbete Bağlı Değil"
+			"trans": "İzin reddedildi. SLANC Sohbete Bağlı Değil"
 		},
 		"spam": {
 			"eng": "Please do not spam messages",
@@ -1623,11 +1623,11 @@
 		},
 		"donation11": {
 			"eng": "CyberKitty",
-			"trans": "Siberkitty"
+			"trans": "Siberkedicik"
 		},
 		"donation12": {
 			"eng": "CyberSanta",
-			"trans": "Siber"
+			"trans": "SiberSanta"
 		},
 		"donation13": {
 			"eng": "CyberFrost",
@@ -1635,7 +1635,7 @@
 		},
 		"donation14": {
 			"eng": "Cyberdragon",
-			"trans": "Siberdragon"
+			"trans": "Siberejder"
 		},
 		"donation15": {
 			"eng": "Prestige",
@@ -1687,7 +1687,7 @@
 		},
 		"donation26": {
 			"eng": "CyberDragon",
-			"trans": "Siberdragon"
+			"trans": "Siberejder"
 		},
 		"donation27": {
 			"eng": "Skip Lord",
@@ -1767,7 +1767,7 @@
 		},
 		"donation44": {
 			"eng": "CyberGhost",
-			"trans": "Perili Sis"
+			"trans": "SiberHayalet"
 		},
 		"donation45": {
 			"eng": "Vice City",
@@ -2026,7 +2026,7 @@
 	"enemy": {
 		"thief": {
 			"eng": "Techno-Thief",
-			"trans": "Tekno şeriat"
+			"trans": "Tekno-Hırsız"
 		}
 	},
 	"enum": {
